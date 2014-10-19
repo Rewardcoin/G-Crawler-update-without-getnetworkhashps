@@ -4,7 +4,7 @@
 	Wallet Configuration
 ******************************************************************************/
 	$GLOBALS["wallet_ip"] = "127.0.0.1";
-	$GLOBALS["wallet_port"] = "22119";
+	$GLOBALS["wallet_port"] = "rpc port goes here";
 	$GLOBALS["wallet_user"] = "";
 	$GLOBALS["wallet_pass"] = "";
 	
